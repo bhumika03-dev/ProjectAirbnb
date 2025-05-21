@@ -1,6 +1,6 @@
 # 🏡 ProjectAirbnb
 
-A backend-focused clone of Airbnb, designed to showcase a scalable, modular, and RESTful API architecture using **Node.js**, **Express.js**. 
+A backend-focused clone of Airbnb,designed to showcase a scalable, modular, and RESTful API architecture using **Node.js**, **Express.js**. 
 This project demonstrates my ability to build robust backend systems for real-world applications.
 ## 📁 Project Structure
 
